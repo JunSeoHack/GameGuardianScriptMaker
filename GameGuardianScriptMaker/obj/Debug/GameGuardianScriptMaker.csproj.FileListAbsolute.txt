@@ -1,0 +1,33 @@
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.exe.config
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.exe
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.pdb
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.AssemblyReference.cache
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.MainForm.resources
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.Properties.Resources.resources
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.GenerateResource.cache
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.CoreCompileInputs.cache
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.exe
+C:\Users\dik09\Desktop\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.pdb
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.exe.config
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.exe
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.pdb
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.AssemblyReference.cache
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.MainForm.resources
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.Properties.Resources.resources
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.GenerateResource.cache
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.CoreCompileInputs.cache
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.exe
+C:\Users\dik09\Documents\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.pdb
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.exe.config
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.exe
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\bin\Debug\GameGuardianScriptMaker.pdb
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.AssemblyReference.cache
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.SuggestedBindingRedirects.cache
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.MainForm.resources
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.Properties.Resources.resources
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.GenerateResource.cache
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.csproj.CoreCompileInputs.cache
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.exe
+C:\Users\dik09\Documents\CS Project\GameGuardianScriptMaker\GameGuardianScriptMaker\obj\Debug\GameGuardianScriptMaker.pdb
